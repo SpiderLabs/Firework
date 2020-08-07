@@ -1,3 +1,6 @@
+:warning: *NOTE: This tool is no longer under active maintenance.*
+
+
 # Firework
 
 ![alt text](https://img.shields.io/badge/Python-2.7_only-blue.svg "Python 2.7 only")
